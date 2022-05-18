@@ -1,0 +1,12 @@
+2022/05/16 20:13:52 {"level":"info","message":"gjw: go-programming/blog-service","time":1652703232765953200}
+2022/05/16 20:56:13 {"level":"info","message":"gjw: go-programming/blog-service","time":1652705773977466700}
+2022/05/16 22:41:39 {"level":"info","message":"gjw: go-programming/blog-service","time":1652712099229011900}
+2022/05/16 22:45:41 {"level":"info","message":"gjw: go-programming/blog-service","time":1652712341453305600}
+2022/05/16 22:57:18 {"level":"info","message":"gjw: go-programming/blog-service","time":1652713038924121200}
+2022/05/16 22:59:04 {"level":"info","message":"gjw: go-programming/blog-service","time":1652713144388730400}
+2022/05/17 11:07:20 {"level":"info","message":"gjw: go-programming/blog-service","time":1652756840950330800}
+2022/05/17 11:07:48 {"level":"info","message":"gjw: go-programming/blog-service","time":1652756868841908800}
+2022/05/17 11:09:01 {"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1652756941201703200}
+2022/05/17 11:12:29 {"level":"info","message":"gjw: go-programming/blog-service","time":1652757149926162600}
+2022/05/17 11:16:30 {"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1652757390299457700}
+2022/05/17 11:16:45 {"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1652757405338702300}
